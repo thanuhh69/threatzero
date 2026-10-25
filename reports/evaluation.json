@@ -1,0 +1,95 @@
+{
+  "dataset": "synthetic, author-written (not real-world data)",
+  "n": 63,
+  "threshold": 25,
+  "tp": 47,
+  "fp": 1,
+  "fn": 0,
+  "tn": 15,
+  "precision": 0.979,
+  "recall": 1.0,
+  "f1": 0.989,
+  "false_positive_rate": 0.062,
+  "category_accuracy_on_fraud": 1.0,
+  "per_category": [
+    {
+      "category": "Betting and gaming fraud",
+      "n": 5,
+      "flagged": 5,
+      "category_correct": 5,
+      "category_accuracy": 1.0
+    },
+    {
+      "category": "Impersonation fraud",
+      "n": 5,
+      "flagged": 5,
+      "category_correct": 5,
+      "category_accuracy": 1.0
+    },
+    {
+      "category": "Internship fraud",
+      "n": 4,
+      "flagged": 4,
+      "category_correct": 4,
+      "category_accuracy": 1.0
+    },
+    {
+      "category": "Investment fraud",
+      "n": 5,
+      "flagged": 5,
+      "category_correct": 5,
+      "category_accuracy": 1.0
+    },
+    {
+      "category": "Part-time job fraud",
+      "n": 5,
+      "flagged": 5,
+      "category_correct": 5,
+      "category_accuracy": 1.0
+    },
+    {
+      "category": "Phishing",
+      "n": 5,
+      "flagged": 5,
+      "category_correct": 5,
+      "category_accuracy": 1.0
+    },
+    {
+      "category": "Recruitment fraud",
+      "n": 4,
+      "flagged": 4,
+      "category_correct": 4,
+      "category_accuracy": 1.0
+    },
+    {
+      "category": "Scholarship and education fraud",
+      "n": 4,
+      "flagged": 4,
+      "category_correct": 4,
+      "category_accuracy": 1.0
+    },
+    {
+      "category": "UPI and payment fraud",
+      "n": 5,
+      "flagged": 5,
+      "category_correct": 5,
+      "category_accuracy": 1.0
+    },
+    {
+      "category": "Work-from-home fraud",
+      "n": 5,
+      "flagged": 5,
+      "category_correct": 5,
+      "category_accuracy": 1.0
+    }
+  ],
+  "false_positives": [
+    {
+      "id": 62,
+      "text": "Please pay the registration fee of Rs 500 for the semester exam at the college accounts office counter before Friday.",
+      "score": 28
+    }
+  ],
+  "false_negatives": [],
+  "category_mismatches": []
+}

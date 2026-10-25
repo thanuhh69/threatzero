@@ -1,0 +1,10 @@
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18
+reportlab>=4.0
+pillow>=10.0
+opencv-python-headless>=4.8
+pytesseract>=0.3.10
+pytest>=8.0
+# Optional (heavier, better OCR; first run downloads models): pip install easyocr
