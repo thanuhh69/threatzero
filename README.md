@@ -1,4 +1,4 @@
-# ScamShield Bharat
+# THREATZERO Bharat
 **Detect Early. Stay Safe. Stay Protected.**
 
 AI-assisted, explainable digital-fraud *indicator* analysis for Indian users: fake jobs, internships, betting, investment, UPI/payment fraud, phishing, scholarship scams and impersonation. English and Telugu-English mixed text supported.
